@@ -1,11 +1,11 @@
 [package]
 name = "saito-macros"
-version = "0.1.0"
+version = "0.0.1"
 description = "Macros for Building Saito-Rust"
 license-file = "LICENSE.md"
 authors = [
-  "Clayton Rabenda <claytonrabenda@gmail.com>"
-  "Steven Zeiler <zeiler@saito.live>"
+  "Clayton Rabenda <claytonrabenda@gmail.com>",
+  "Steven Zeiler <z@saito.live>"
  ]
 edition = "2021"
 
